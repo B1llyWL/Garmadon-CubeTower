@@ -1,4 +1,25 @@
-CubeTower is a game about the character Garmadon from the animated series "Ninjago". #Unity
+```html
+<h1 align="center">CubeTower</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-2020.3+-brightgreen?logo=unity" alt="Unity">
+  <img src="https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue" alt="Platform">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+</p>
+
+<p align="center">
+  <b>CubeTower</b> is an exciting 3D platformer where you play as <b>Lord Garmadon</b> from the iconic animated series <i>Ninjago</i>.  
+  Explore mysterious towers, fight enemies, and reclaim your lost power!
+</p>
+
+<p align="center">
+  <a href="https://gamejolt.com/@wilchelmwl/games" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20on-GameJolt-3B9EFF?style=for-the-badge&logo=gamejolt" alt="Download on GameJolt">
+  </a>
+</p>
+
+<h2>📸 Screenshots</h2>
+
 <table style="width:100%; border-collapse:collapse; table-layout:fixed;">
   <tr>
     <td style="width:50%; height:300px; padding:5px; text-align:center;">
@@ -25,3 +46,24 @@ CubeTower is a game about the character Garmadon from the animated series "Ninja
     </td>
   </tr>
 </table>
+
+
+<h2>⚙️ Installation & Download</h2>
+<p>
+  <b>Android:</b> Download the latest APK directly from our 
+  <a href="https://gamejolt.com/@wilchelmwl/games">GameJolt page</a>.
+</p>
+<p>
+  <b>PC:</b> Grab the Windows build from the <a href="#">Releases</a> section (coming soon).
+</p>
+<p><i>To build from source:</i></p>
+<pre><code>git clone https://github.com/yourusername/cubetower.git
+cd cubetower
+Open the project in Unity 2020.3 or newer and build for your target platform.</code></pre>
+
+<hr>
+<p align="center">
+  A fan project created for Ninjago enthusiasts. <br>
+  All characters and settings belong to the LEGO Group.
+</p>
+```
