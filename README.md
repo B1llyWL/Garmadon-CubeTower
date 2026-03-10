@@ -1,4 +1,3 @@
-```html
 <h1 align="center">CubeTower</h1>
 
 <p align="center">
@@ -17,6 +16,8 @@
     <img src="https://img.shields.io/badge/Download%20on-GameJolt-3B9EFF?style=for-the-badge&logo=gamejolt" alt="Download on GameJolt">
   </a>
 </p>
+
+---
 
 <h2>📸 Screenshots</h2>
 
@@ -46,7 +47,6 @@
     </td>
   </tr>
 </table>
-
 
 <h2>⚙️ Installation & Download</h2>
 <p>
