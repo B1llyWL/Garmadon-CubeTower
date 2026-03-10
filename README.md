@@ -1,7 +1,7 @@
 <h1 align="center">CubeTower</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity--?logo=unity" alt="Unity">
+   <img src="https://img.shields.io/badge/Unity--brightgreen?logo=unity" alt="Unity">
   <img src="https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue" alt="Platform">
 </p>
 
