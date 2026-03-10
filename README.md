@@ -53,9 +53,6 @@
   <b>Android:</b> Download the latest APK directly from our 
   <a href="https://gamejolt.com/@wilchelmwl/games">GameJolt page</a>.
 </p>
-<p>
-  <b>PC:</b> Grab the Windows build from the <a href="#">Releases</a> section (coming soon).
-</p>
 <p><i>To build from source:</i></p>
 <pre><code>git clone https://github.com/yourusername/cubetower.git
 cd cubetower
