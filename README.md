@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2020.3+-brightgreen?logo=unity" alt="Unity">
   <img src="https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
 
 <p align="center">
