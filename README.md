@@ -63,5 +63,5 @@ cd cubetower
 <hr>
 <p align="center">
   A fan project created for Ninjago enthusiasts. <br>
-  All characters and settings belong to the LEGO Group.
+  All characters belong to the LEGO Group.
 </p>
