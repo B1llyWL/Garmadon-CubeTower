@@ -7,10 +7,14 @@
 </p>
 
 <p align="center">
-CubeTower is where you build a tall tower from different cubes, which are the Garmadons. At first, you have access to two different Garmadon cubes, then, once you open the store, you'll gain access to another cube. There are 12 different cube types in total. The game is available offline.
+  <b>CubeTower</b> is a casual offline game where you build tall towers from different Garmadon cubes.  
+  Start with two cube types and unlock more through the in-game store — <b>12 unique cubes</b> to collect in total!
 </p>
 
 <p align="center">
+  <a href="https://youtube.com/shorts/fL64woxIldc?si=A_8TID2T2YwzPzd7" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube Short">
+  </a>
   <a href="https://gamejolt.com/@wilchelmwl/games" target="_blank">
     <img src="https://img.shields.io/badge/Download%20on-GameJolt-3B9EFF?style=for-the-badge&logo=gamejolt" alt="Download on GameJolt">
   </a>
@@ -50,16 +54,15 @@ CubeTower is where you build a tall tower from different cubes, which are the Ga
 <h2>⚙️ Installation & Download</h2>
 <p>
   <b>Android:</b> Download the latest APK directly from our 
-  <a href="https://gamejolt.com/@wilchelmwl/games">GameJolt page</a>.
+  <a href="https://gamejolt.com/@wilchelmwl/games">GameJolt page</a>. The game works offline!
 </p>
 <p><i>To build from source:</i></p>
 <pre><code>git clone https://github.com/yourusername/cubetower.git
 cd cubetower
-Open the project in Unity 2020.3 or newer and build for your target platform.</code></pre>
+</code></pre>
 
 <hr>
 <p align="center">
   A fan project created for Ninjago enthusiasts. <br>
   All characters and settings belong to the LEGO Group.
 </p>
-```
