@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <b>CubeTower</b> is an exciting 3D platformer where you play as <b>Lord Garmadon</b> from the iconic animated series <i>Ninjago</i>.  
-  Explore mysterious towers, fight enemies, and reclaim your lost power!
+CubeTower is where you build a tall tower from different cubes, which are the Garmadons. At first, you have access to two different Garmadon cubes, then, once you open the store, you'll gain access to another cube. There are 12 different cube types in total. The game is available offline.
 </p>
 
 <p align="center">
