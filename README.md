@@ -63,6 +63,6 @@ cd cubetower
 <hr>
 <p align="center">
   A fan project created for Ninjago enthusiasts. <br>
-  All characters belong to the LEGO Ninjago.
+  All characters belong to the LEGO Ninjago. <br>
   The music does not belong to me. It was found on the Internet.
 </p>
